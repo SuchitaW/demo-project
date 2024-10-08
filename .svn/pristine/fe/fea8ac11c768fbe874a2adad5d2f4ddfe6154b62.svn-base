@@ -1,0 +1,5 @@
+cd F:
+cd F:\Source\Testing\Web\XSS Logins
+
+mvn test
+ 
