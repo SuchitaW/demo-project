@@ -1,4 +1,4 @@
-# Created at 2024-10-01T18:56:43.603
+# Created at 2024-10-09T13:41:18.695
 Boot Manifest-JAR contains absolute paths in classpath D:\Source\Testing\Web\XSS Logins\target\test-classes
 java.lang.IllegalArgumentException: 'other' has different root
 	at java.base/sun.nio.fs.WindowsPath.relativize(WindowsPath.java:404)
@@ -42,7 +42,7 @@ java.lang.IllegalArgumentException: 'other' has different root
 	at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:348)
 
 
-# Created at 2024-10-01T18:56:43.604
+# Created at 2024-10-09T13:41:18.696
 Boot Manifest-JAR contains absolute paths in classpath D:\Source\Testing\Web\XSS Logins\target\classes
 java.lang.IllegalArgumentException: 'other' has different root
 	at java.base/sun.nio.fs.WindowsPath.relativize(WindowsPath.java:404)
